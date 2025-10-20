@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gouthampadala/)
 [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/GouthamPadala)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkred?style=flat-square&logo=Gmail&logoColor=white)](mailto:p.gouthamkumar1@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-darkgreen?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gouthampk)
+
 
 ## Introduction
 
